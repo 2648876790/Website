@@ -1,0 +1,86 @@
+html{
+  width:100%;
+  height:100%;
+  font-family:"微软雅黑";
+  background:url("../img/beijing.jpg") no-repeat;
+  background-size:200%;
+  background-attachment:fixed;
+  }
+
+ body{
+  font-size: 35pt;
+  }
+
+p{
+  font-size:40pt;
+  }
+ 
+h1,h2,h3{}
+
+ul{
+  color:Green; 
+  text-align:center;
+  
+  }
+  
+a
+{
+  color:Orange;
+  text-decoration:underline;
+  font-style:italic;
+  }
+  
+  
+  .Yellow-text{color:Yellow;}
+  .Pink-text{color:Pink;}
+  .Green-text{color:Green;}
+  .Red-text{color:Red;}
+  
+  
+  
+  
+box{
+  width:380px;
+  margin:380px auto;
+  font-family:'微软雅黑';
+  font-size:14px;
+  }
+  
+  input{
+	width:260px;
+	border:1px solid #e2e2e2;
+	height:30px;
+	float:left;
+	background:url("../img/sousuo.png");
+	background-repeat:no-repeat;
+	background-size:25px;
+	background-position:5px center;
+	padding:0 0 0 40px;
+	}
+	
+	search{
+	  width:78px;
+	  height:32px;
+	  float:right;
+	  background:Black;
+	  color:White;
+	  text-align:center;
+	  line-height:32px;
+	  cursor:pointer;
+	}
+	
+	
+body{
+  margin:50px 100px;
+}
+	
+a{
+  text-decoration:none;
+  padding:20px 35px ;
+  background:url("../img/a.png") no-repeat;
+  background-size:cover;
+  background-attachment:fixed;
+  font-size:25px;
+  border-radius:10px;
+  color:YellowGreen;
+  }
