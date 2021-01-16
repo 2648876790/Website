@@ -1,8 +1,6 @@
 html{
-  width:100%;
-  height:100%;
   font-family:"微软雅黑";
-  background-color:Pink;
+  background-color:#77AF9C;
   background-size:200%;
   background-attachment:fixed;
   }
@@ -18,24 +16,20 @@ p{
 h1,h2,h3{}
 
 ul{
-  color:Green; 
+  color:; 
   text-align:center;
   
   }
   
 a
 {
-  color:Orange;
-  text-decoration:underline;
-  font-style:italic;
+ font-style:italic;
   }
   
   
   .Yellow-text{color:Yellow;}
   .Pink-text{color:Pink;}
-  .Green-text{color:Green;}
-  .Red-text{color:Red;}
-  
+  .Green-text{color:Green;}  
   
   
   
@@ -82,5 +76,5 @@ a{
   background-attachment:fixed;
   font-size:25px;
   border-radius:10px;
-  color:YellowGreen;
+  color:#285943;
   }
