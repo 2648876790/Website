@@ -1,8 +1,6 @@
 html{
   font-family:"微软雅黑";
   background-color:Green;
-  background-size:200%;
-  background-attachment:fixed;
   }
 
  body{
@@ -13,8 +11,6 @@ p{
   font-size:40pt;
   }
  
-h1,h2,h3{}
-
 ul{
    color:Green;
    text-align:center;
