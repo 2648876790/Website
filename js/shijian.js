@@ -1,4 +1,3 @@
 (function () {
 var timeEl = document.getElementById("time");
-timeEl.innerHTML = new Date();
-})();
+timeEl.innerHTML = new Date();})();
