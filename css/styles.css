@@ -1,38 +1,5 @@
 html{
-  background-color:Green;
-  }
+  background-color:#D7FFF1;
+ }
 
- body{
-  font-size: 35pt;
-  }
-
-h2,h3,h4{
-  color:Green;
-  }
-p{
-  font-size:40pt;
-  }
- 
-ul{
-   color:Green;
-   text-align:center;
-  
-  }
-  
-a
-{
- font-style:italic;
-  }
-  
-    .Green-text{color:Green;}  
-  	
-	
-a{
-  text-decoration:none;
-  background:url("../img/a.png") no-repeat;
-  background-size:cover;
-  background-attachment:fixed;
-  font-size:25px;
-  border-radius:10px;
-  color:#285943;
-  }
+.green-text{color:#285943;}
