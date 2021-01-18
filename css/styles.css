@@ -1,12 +1,17 @@
 html{
-  background-color:#D7FFF1;
+ background-color:#D7FFF1;
  }
 
 h1{
- color:#285943;
+ color:#D7FFF1;
+ font-size:50px;
  }
 
-.green-text{color:#285943;}
+p{
+ color:#D7FFF1;
+ }
+
+.green-text{color:#D7FFF1;}
 
 
 
