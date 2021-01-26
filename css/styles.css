@@ -11,6 +11,15 @@ p{
  color:#D7FFF1;
  }
 
+a:link,a:visited{
+ text-decoration:none;
+ }
+
+a:hover{
+ text-decoration:underline;
+ color:red;
+ }
+
 .green-text{color:#D7FFF1;}
 
 
