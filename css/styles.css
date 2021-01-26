@@ -13,11 +13,13 @@ p{
 
 a:link,a:visited{
  text-decoration:none;
+ font-size:20px;
  }
 
 a:hover{
  text-decoration:underline;
  color:red;
+ font-size:25px;
  }
 
 .green-text{color:#D7FFF1;}
