@@ -1,5 +1,5 @@
 html{
- background-color:#D7FFF1;
+ background:url(../img/bg.png);
  }
 
 h1{
@@ -13,6 +13,7 @@ p{
 
 a:link,a:visited{
  text-decoration:none;
+ color:Yellow;
  font-size:20px;
  margin:20px;
  }
