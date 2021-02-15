@@ -30,6 +30,10 @@ a:hover{
  font-size:25px;
  }
 
+audio{
+    display:none;
+ }
+
 .green-text{color:#D7FFF1;}
 
 
