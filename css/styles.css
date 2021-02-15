@@ -1,5 +1,11 @@
 html{
- background:url(../img/bg.png);
+    background:url(../img/bg.png);
+    font-family:"ziti";
+ }
+
+@font-face {
+    font-family:"ziti";
+    src:url(../font/ziti.ttf);
  }
 
 h1{
